@@ -8,8 +8,8 @@ public class MainOriginal {
 
         // Hidden words array
         String[] w = new String[] {
-                "umbrella",
-                "chronometer",
+                  "umbrella",
+                  "chronometer",
                 "helicopter",
                 "television",
                 "wardrobe",
@@ -28,7 +28,7 @@ public class MainOriginal {
         System.out.println("You start the game with 3 tokens.");
         System.out.println("If you guess all letters of the hidden word you win.");
         System.out.println("If you lose all tokens you lose.");
-        System.out.println("Good luck! The game is starting...");
+         System.out.println("Good luck! The game is starting...");
         System.out.println();
 
         // Generates random number between 1 and 10
