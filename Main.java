@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Game: guess the hidden word
-public class MainOriginal {
+public class Main {
     public static void main(String[] args) {
         // Object to read letters from keyboard
         Scanner scanner =new Scanner(System.in);
