@@ -33,7 +33,8 @@ else
 }
 ```
 
-<br/><br/>
+<br/>
+
 - Alternativas a MySQL para pruebas:
 
 SQL Server (versión gratuita para desarrolladores):
@@ -42,10 +43,9 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 Datagrip (Jetbrains):
 Para conectarse a bases de datos y poder hacer consultas, etc., NO tiene una base de datos propia
 
-<br/><br/>
+<br/>
+
 - Alternativa a Eclipse para desarrollar en Java:
 
 IntelliJ (Jetbrains):
 https://www.jetbrains.com/es-es/idea/
-
-<br/><br/>
