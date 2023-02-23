@@ -1,16 +1,19 @@
 ## Refactors:
 
-Main.java               Código original original
-MainRefactor1.java      Mejora de nomenclatura de variables, espaciado horizontal y vertical, identaciones
-MainRefactor2.java      División del código en métodos
-MainRefactor3.java      División del código en clases
-
+Main.java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Código original
+<br/>
+MainRefactor1.java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mejora de nomenclatura de variables, espaciado horizontal y vertical, identaciones
+<br/>
+MainRefactor2.java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;División del código en métodos
+<br/>
+MainRefactor3.java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;División del código en clases
+<br/><br/>
 
 ## Dudas que salieron durante la sesión:
 
-- Bloques if...else como pongo las llaves, depende del lenguaje, cada uno tiene su convención.
+- Bloques if...else, como pongo las llaves, depende del lenguaje, cada uno tiene su convención.
 
-En java:
+En Java o Kotlin:
 ```
 if (...) {
   ...
@@ -42,7 +45,7 @@ Para conectarse a bases de datos y poder hacer consultas, etc., NO tiene una bas
 <br/><br/>
 - Alternativa a Eclipse para desarrollar en Java:
 
-IntelliJ:
+IntelliJ (Jetbrains):
 https://www.jetbrains.com/es-es/idea/
 
 <br/><br/>
