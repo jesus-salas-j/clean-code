@@ -6,7 +6,7 @@ MainRefactor1.java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mejora de nome
 <br/>
 MainRefactor2.java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;División del código en métodos
 <br/>
-MainRefactor3.java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;División del código en clases
+MainRefactor3.java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;División del código en clases (usa Game.java, Words.java, Console.java y Keyboard.java)
 <br/><br/>
 
 ## Dudas que salieron durante la sesión:
